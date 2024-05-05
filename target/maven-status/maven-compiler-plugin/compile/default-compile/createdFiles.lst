@@ -1,0 +1,6 @@
+com\javatechie\dto\Product.class
+com\javatechie\config\SecurityConfig.class
+com\javatechie\controller\ProductController.class
+com\javatechie\service\ProductService.class
+com\javatechie\SpringSecurityLatestApplication.class
+com\javatechie\dto\Product$ProductBuilder.class
